@@ -1,0 +1,33 @@
+.container{
+  width: 70%;
+  text-align: center;
+  margin: auto;
+}
+.dice{
+  text-align: center;
+  display: inline-block;
+}
+body {
+  background-color: #184d47;
+}
+h1{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 7rem;
+  color: #eebb4d;
+  margin: 30px;
+  text-shadow: 5px 0 #cf7500;
+}
+p{
+  font-family: 'Fredoka One', cursive;
+  font-size: 2rem;
+  color: #d6efc7;
+}
+img{
+  width: 80%;
+}
+footer{
+  font-family: 'Fredoka One', cursive;
+  margin-top: 7%;
+  text-align: center;
+  color: #d6efc7;
+}
